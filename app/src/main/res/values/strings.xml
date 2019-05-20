@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartLand</string>
+    <string name="txtUsuario">Ingrese Usuario</string>
+    <string name="txtPass">Ingrese Clave</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnCerrar">Cerrar</string>
+
+</resources>
